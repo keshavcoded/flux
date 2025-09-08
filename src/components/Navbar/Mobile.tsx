@@ -78,6 +78,7 @@ function Mobile() {
                 <SignOutButton>
                   <Button className="flex items-center gap-3 justify-start w-full">
                     <LogOut className="h-4 w-4" />
+                    Logout
                   </Button>
                 </SignOutButton>
               </>
